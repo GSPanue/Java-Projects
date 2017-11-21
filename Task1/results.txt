@@ -1,0 +1,14 @@
+--- Three largest sharks ---
+Basking Shark, Length = 1300 centimetres
+Tiger Shark, Length = 600 centimetres
+Great Hammerhead Shark, Length = 600 centimetres
+
+--- Three smallest sharks ---
+Spiny Dogfish, Length = 160 centimetres
+Horn Shark, Length = 122 centimetres
+Swell Shark, Length = 100 centimetres
+
+--------------------------
+Total number of letters in all Latin names = 483
+Total number of unique even words in Latin names = 25
+Total number of unique odd words in Latin names = 19
